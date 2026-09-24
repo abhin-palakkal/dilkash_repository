@@ -1,0 +1,23 @@
+.about {
+  width: 100%;
+  height: 70vh;
+  background-color: #fafafa;
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.about-main {
+  width: 70%;
+  height: inherit;
+  /* background-color: green; */
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

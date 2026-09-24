@@ -1,0 +1,27 @@
+.experience {
+  width: 100%;
+  height: 40vh;
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.experience-main {
+  width: 80%;
+  height: 35vh;
+  /* background-color: blue; */
+}
+.experience-main-box1 {
+  width: 100%;
+  height: 15%;
+  /* background-color: green; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  /* border-bottom: 1px solid rgb(188, 187, 187); */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.experience-p-color {
+  color: gray;
+}
